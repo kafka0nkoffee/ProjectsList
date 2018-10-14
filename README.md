@@ -10,6 +10,7 @@ I have included brief introductions as well as links to the GitHub repositories 
 
 * __Face Detection:__ A face-detection app using React, Node and PostgreSQL. https://github.com/kikku2506/FaceDetection-frontend
 * __Robofriends:__ A simple contacts app where a random robot face is generated for each contact. https://github.com/kikku2506/robofriends
+* __Connektor:__ Cross-platform mobile and desktop web app that connects people together! Social Networking for school.
 * __Benchmarking Message Queues:__ Benchmarked the ActiveMQ and RabbitMQ systems using Java and Python respectively, investigating performance under various workloads. https://github.com/kikku2506/cs654_messageQueues
 * __Background Generator:__ A simple background generator based on linear gradients. https://github.com/kikku2506/background-generator
 
