@@ -14,3 +14,15 @@ I have included brief introductions as well as links to the GitHub repositories 
 * __Benchmarking Message Queues:__ Benchmarked the ActiveMQ and RabbitMQ systems using Java and Python respectively, investigating performance under various workloads. https://github.com/kikku2506/cs654_messageQueues
 * __Background Generator:__ A simple background generator based on linear gradients. https://github.com/kikku2506/background-generator
 
+### Papers
+
+Research Papers as part of degree requirements of MMath CS (UW):
+
+https://github.com/kikku2506/Papers_MMath/tree/master#papers_mmath
+
+* __A Comparative Analysis of Developer Queries__
+* __A Succinct Study on Requirements Engineering for User Interfaces__
+* __Benchmarking Modern AMQP Message Brokers__
+* __Comparative Study OpenStack Vs CloudStack__
+* __Computer-Assisted Language Learning in SLA__
+* __Study on Infamous Cases of Requirements Engineering Failure__
